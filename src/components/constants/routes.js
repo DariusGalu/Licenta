@@ -1,0 +1,15 @@
+export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/signin';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const ADMIN = '/admin';
+export const PASSWORD_FORGET = '/pw-forget';
+export const ABOUTUS = '/AboutUs';
+export const TESTIMONIALS ='/Testimonials';
+export const LIVECHARTS= '/LiveCharts';
+export const ECONOMICCALENDAR ='/EconomicCalendar';
+export const CALCULATOR ='/Calculator';
+export const PLANS ='/Plans';
+export const TERMS ='/Terms and Conditions';
+export const PAY = '/Payment';

@@ -1,0 +1,23 @@
+.reset {
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    background: black;
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 2px;
+    border-radius: 25px;
+    display: inline-block;
+    border: none;
+    transition: all 0.4s ease 0s;
+    }
+  
+  .reset:hover {
+    color: rgb(255, 255, 255);
+    background: #000000;
+    letter-spacing: 1px;
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.4s ease 0s;
+    }

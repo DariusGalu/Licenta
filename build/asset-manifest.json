@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e3bf9a5.chunk.css",
+    "main.js": "/static/js/main.63d6304d.chunk.js",
+    "main.js.map": "/static/js/main.63d6304d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.697298d5.chunk.js": "/static/js/2.697298d5.chunk.js",
+    "static/js/2.697298d5.chunk.js.map": "/static/js/2.697298d5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5dc5b9200b44c6e1ca4152b944781c50.js": "/precache-manifest.5dc5b9200b44c6e1ca4152b944781c50.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.9e3bf9a5.chunk.css.map": "/static/css/main.9e3bf9a5.chunk.css.map",
+    "static/js/2.697298d5.chunk.js.LICENSE.txt": "/static/js/2.697298d5.chunk.js.LICENSE.txt",
+    "static/media/Mobile.png": "/static/media/Mobile.dde6f47f.png",
+    "static/media/Quotationdown.png": "/static/media/Quotationdown.26bdcfb0.png",
+    "static/media/Quotationup.png": "/static/media/Quotationup.9f659b81.png",
+    "static/media/index.css": "/static/media/backgr.1e6af259.png",
+    "static/media/checkmark.png": "/static/media/checkmark.d173d622.png",
+    "static/media/coins.png": "/static/media/coins.5e5ac6cb.png",
+    "static/media/comm-chat.png": "/static/media/comm-chat.745c7c01.png",
+    "static/media/graph.png": "/static/media/graph.fa6fd126.png",
+    "static/media/homework-submission.png": "/static/media/homework-submission.7a96803c.png",
+    "static/media/laptop.png": "/static/media/laptop.48c16f05.png",
+    "static/media/logo.png": "/static/media/logo.a20195d4.png",
+    "static/media/step-by-step.png": "/static/media/step-by-step.b8592678.png",
+    "static/media/termsofuse.jpg": "/static/media/termsofuse.adb9822a.jpg",
+    "static/media/usericon.png": "/static/media/usericon.2e47175f.png",
+    "static/media/video-questions.png": "/static/media/video-questions.ab2b9039.png",
+    "static/media/weekly-chart.png": "/static/media/weekly-chart.c4e16895.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83c3e0c4.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.697298d5.chunk.js",
+    "static/css/main.9e3bf9a5.chunk.css",
+    "static/js/main.63d6304d.chunk.js"
+  ]
+}
